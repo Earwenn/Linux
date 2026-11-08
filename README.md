@@ -1,0 +1,2 @@
+# Linux
+scripts bash
