@@ -1,0 +1,3 @@
+# meta-data pour Cloud-init
+instance-id: iid-local01
+local-hostname: ubuntuserver
